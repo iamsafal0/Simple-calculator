@@ -19,4 +19,9 @@ you need code editor(VS Code)
 live server extension
 
 ##Demo
-[recording-2022-08-27-11-56-32.webm](https://user-images.githubusercontent.com/104667352/187018816-7d3f52f8-6943-4413-b0ab-1af148b555bb.webm)
+
+
+https://user-images.githubusercontent.com/104667352/187019019-e6dd2459-af60-4f2f-bcef-d8a5af20589e.mp4
+
+
+
